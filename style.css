@@ -1,0 +1,116 @@
+*{margin:0;padding:0}
+body{ margin:0 auto;font-family:Sans-Serif, Arial !important; transition:all 0.5s ease;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;}
+body, html{height:100%;}
+img{max-width:100%}
+a{text-decoration:none}
+
+h1, h2, h3, h4, h5, h6{font-weight:normal;margin-top:10px;margin-bottom:10px}
+p{line-height: 150%;margin-bottom: 2em;}
+.container_full {width: 100%; height: auto;}
+.container {width:1000px; margin:0 auto; }
+.fix{overflow:hidden;}
+.float_right{float:right;}
+.float_left{float:left;} 
+
+
+.header_bg{background-color:#E8EBF1;min-height:125px;}
+.slider_bg{background-color:#81E4ED;height:500px;margin-top: -21px;padding: 15px 0px;}
+.service_bg{background-color:#E8EBF1;height:300px;border-bottom:1px solid #D9D9D9;}
+.footer_bg{background-color:#E8EBF1;height:420px;}
+.menu_bd{background-color:#E8EBF1;}
+/*-----End of Typography____*/
+.header {background-color: #E8EBF1;margin-top: 0px;}
+
+.logo {float:left;width:260px; height:120px;}
+
+.slider {width:1000px;height:440px;margin-top:20px;margin-left:auto;margin-right:auto;}
+/* menu start*/
+.menu{float: right;margin-right: 0px;margin-top: 20px;left: 450px;}
+
+.menu ul{list-style:none;}
+.menu ul li{float:left; margin-right:15px;position:relative;padding:15px 0px;}
+.menu ul li:last-child{margin-right:0px;}
+.menu ul li a{text-decoration:none;color:#2B2C2D;text-transform:uppercase;font-weight:bold;font-family:arial;font-size:13px;padding:15px;}
+.menu ul li a:hover{color:#52BCD2;padding:15px 15px;}
+.menu ul li:hover{border-top:5px solid #2AACC8;background-color:#FFFFFF;display:block;}
+
+/* dropdown menu start*/
+.menu ul li ul{position:absolute;width:250px;margin-top: 15px;}
+
+.menu ul li ul li{float:none;padding:15px 0px;border-bottom:1px solid #E7E7E7;background-color:#fff;}
+.menu ul li ul li:last-child{border-bottom:5px solid #2AACC8;width:250px;}
+.menu ul li ul li:hover{border-top:0px solid #2AACC8;}
+.menu ul li ul li a{padding:10px 25px;}
+.menu ul li ul li a:hover{}
+
+
+
+.slider {width:1000px;height:440px;margin-top:20px;margin-left:auto;margin-right:auto;
+}
+.slider{}
+.services {}
+.section {width:215px;height:200px;margin-right:35px;float:left;overflow:hidden;padding-top:20px;}
+.section:last-child{margin-right:0px;}
+.section img{float:left;padding-right:10px;}
+.section h2{font:arial;font-size:15px;text-transform:uppercase;font-weight:bold;line-height:20px;}
+.section p {font:arial;font-size:13px;padding-top:20px;}
+span{font-family:arial;font-size:13px;overflow:hidden;position:absolute;padding-right:0px;}
+span:before{content:url(images/arow.jpg);}
+span a{color:#3FB1CB;text-decoration:none;}
+.main_content {background-color:#FFFFFF;margin-top:30px;}
+
+.main_content h2 {float:left;font-family:arial;font-size:15px;background:url(images/ourclients.png) no-repeat;padding-left:35px;}
+
+.main_content img{float:right;}
+.svc hr{margin:20px auto;color:#D9D9D9;}
+.svc img{margin-right:35px;}
+.svc img:last-of-type{margin-right:0px;}
+.testimonial{float:left;width:500px;}
+.testimonial h2{background:url(images/ourclients.png) no-repeat;padding-left:35px;}
+.testimonial h2,.our_clients h2{font:arial;font-size:15px;text-transform:uppercase;font-weight:bold;line-height:20px;}
+.our_clients h2{margin-left:20px;background:url(images/ourclients.png) no-repeat;padding-left:35px;}
+.our_clients img{float:right;}
+.testimonial p{line-height:20px;font-family:arial;font-size:15px;}
+
+.download {background-color:#E8FCFE;border:1px solid #81E4ED;margin:40px auto;}
+.download p{margin:45px 35px;width:600px;line-height:20px;}
+.download img{float:right;margin: -100px 35px 50px 0;}
+
+.about_us h2,.explore h2,.browse h2,.contact_us h2,.contact_with_us h2{font-weight:bold;font-size:15px;text-transform:uppercase;font-family:arial;margin-bottom:25px;margin-top:20px;
+} 
+
+.footer_top {margin-top:0px;}
+
+.about_us {width:240px;float:left;margin-right:60px;}
+.about_us p{line-height:20px;color:#5E5F60;}
+
+.footerh2 {
+}
+
+.explore {width:85px;float:left;margin-right:45px;}
+.explore ul {list-style:none;}
+.explore ul li a{text-decoration:none;color:#5E5F60;}
+
+.browse {width:85px;float:left;margin-right:40px;}
+.browse ul {list-style:none;}
+.browse ul li a{text-decoration:none;color:#5E5F60;}
+
+
+
+.contact_us {width:145px;float:left;margin-right:100px;}
+.contact_with_us{width:200px;float:right;}
+.contact_with_us img{padding:2px;}
+.footer_bottom{margin-top: -53px;}
+.footer_bottom p{float:left;width:650px;margin-top:50px;}
+.footer_bottom  img{float:right;width:260px; height:120px;}
+
+
+
+
+
+
+
+
+
+
+
